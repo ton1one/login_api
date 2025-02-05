@@ -11,7 +11,7 @@ Esta API fornece um endpoint para autenticação de usuários. Ela verifica as c
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/seu-repositorio/api-login.git
+   git clone https://github.com/ton1one/login_api.git
    cd api-login
    ```
 
