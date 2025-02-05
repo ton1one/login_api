@@ -22,7 +22,7 @@ Esta API fornece um endpoint para autenticação de usuários. Ela verifica as c
 
 3. **Inicie o servidor:**
    ```sh
-   node server.js
+   node login.js
    ```
 
 4. **A API rodará em:**
